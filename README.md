@@ -50,7 +50,12 @@ Since the **Transactions** data is now in a separate workbook (`dataset.xlsx`), 
 - Most popular products and categories by sales volume  
 - Store location performance comparisons  
 - Customer buying patterns by day and time  
-- Identification of growth opportunities and sales optimization areas  
+- Identification of growth opportunities and sales optimization areas
+
+## Dashboard
+Here is a snapshot of the interactive dashboard showcasing key sales metrics:
+
+![Dashboard Overview](images/dashBoard.png)
 
 ---
 
