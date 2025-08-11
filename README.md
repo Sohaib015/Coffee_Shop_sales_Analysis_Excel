@@ -56,6 +56,7 @@ Since the **Transactions** data is now in a separate workbook (`dataset.xlsx`), 
 Here is a snapshot of the interactive dashboard showcasing key sales metrics:
 
 ![Dashboard Overview](DashBoard.png)
+DashBoard.PNG
 
 ---
 
